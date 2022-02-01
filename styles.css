@@ -1,0 +1,47 @@
+* {
+    /* border: 2px solid; */
+}
+
+h1 {
+    color: rgb(87, 95, 206);
+    margin-left: 10px;
+}
+
+.header {
+    background-color: rgb(241, 148, 148);
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.menu {
+    margin: 10px;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.center {
+    text-align: center;
+}
+
+.item {
+    background-color: rgb(255, 201, 164);
+    border-radius: 40px;
+    margin: 20px;
+    width: 800px;
+}
+
+img {
+    border-radius: 5px;
+}
